@@ -87,7 +87,7 @@ The sales data has been cleaned and preprocessed using Excel. Detailed steps can
 
 Explore the sales data using the provided Jupyter notebook (`Sales_Data_Exploration.ipynb`). The notebook includes in-depth exploratory data analysis using popular Python libraries.
 
-## Power BI Visualizations
+## Power BI Dashboard
 
 - https://app.powerbi.com/groups/me/reports/1d64bc0e-e39e-41a2-a13a-ee15b038f290/ReportSection42cfb0cc8f214e3437fd?experience=power-bi
 
