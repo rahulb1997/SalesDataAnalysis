@@ -12,8 +12,6 @@ This repository contains a comprehensive analysis of sales data from 19 differen
 
 3. **Sales_Data_Exploration.ipynb:** Jupyter notebook file containing Python code for exploratory data analysis using pandas, numpy, matplotlib, and seaborn.
 
-4. **PowerBI_Visualizations.pbix:** Power BI file with visualizations and insights derived from the cleaned and analyzed sales data.
-
 ## Data Structure
 
 ### sales_data.csv
